@@ -3,6 +3,7 @@
 if [ ! -f /etc/redhat-release ]; then
   exit 1
 fi
+
 # vm machine name
 dis_name=linux9
 
